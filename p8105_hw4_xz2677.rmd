@@ -11,6 +11,6 @@ The [problem 1](https://github.com/zxinxinz/zxin)
 The [problem 2](https://github.com/never1andddd/p8105_hw4_sl4283) 
 
 
-My [website](file://localhost/Users/zhengxin/Desktop/2017%20fall/data%20science/Homework/zxinxinz.github.io/Website_Template/index.html)
+My [website](https://zxinxinz.github.io/)
 
 

@@ -11,6 +11,5 @@ navbar:
       href: https://github.com/zxinxinz/zxin
 output:
   html_document:
-  theme: cosmo
   
   
