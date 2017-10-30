@@ -1,0 +1,17 @@
+---
+title: "Xin's website"
+subtitle: "A graduate student in Columbia University"
+---
+
+### Welcome  
+
+####Hi, I'm from China.And I studied my undergraduate program in Beijing.  
+<img src="images/xin.jpeg" style="width:50%">
+
+####And now I'm in Columbia University for my graduate study.
+<img src="images/cu.jpeg" style = width: 75%'>
+
+####You can see my resume on the top of the website. And you can also email me!
+
+####I like taking photos and if you are instered in my pictures, you can see my [weibo](https://weibo.com/u/2436901234/home?wvr=5)
+
